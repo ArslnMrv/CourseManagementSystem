@@ -1,0 +1,23 @@
+Proje:Course Management System
+          -1-Herhangi bir eğitim kurumu için kurs yönetim uygulaması geliştiriniz.
+          -2-Kullanıcı
+                    -C:create:kurs oluşturma
+                    -R:read:kurs veya kursları görüntüleme
+                    -U:update: id ile kurs bilgilerini güncelleme
+                    -D:delete: id ile kurs silme
+                    -R: course_name ile kurs filtreleme
+            işlemlerini yapabilmeli.
+          -3-course:id,course_name,credit,course_fee,start_date, finish_date özelliklerine sahiptir.
+          -4- databasedeki tablonuza PLANLANMIS KURSLARI ekleyiniz.
+              course_id, course_name, credit, course_fee, start_date date, finish_date
+          VALUES(3001,'SpringMVC',10,100.05,'10-01-2023','10-02-2023');
+          VALUES(3002,'SpringBOOT',8,120.25,'11-02-2023','28-02-2023');
+          VALUES(3003,'S.Security',6,200.15,'03-03-2023','12-03-2023');
+          VALUES(3004,'Java',26,159.99,'03-11-2022','12-01-2023');
+          VALUES(3005,'SQL',6,175.55,'03-01-2023','12-03-2023');
+          VALUES(3006,'React',12,255.85,'03-06-2023','12-07-2023');
+          VALUES(3007,'HTML',6,125.99,'03-03-2023','22-03-2023');
+          VALUES(3008,'CSS',5,125.99,'03-04-2023','22-04-2023');
+          VALUES(3009,'JavaScript',10,199.99,'03-05-2023','31-05-2023');
+          VALUES(3010,'Java',26,159.99,'12-04-2023','12-07-2023');
+          VALUES(3011,'Java',26,159.99,'12-08-2023','12-10-2023');
